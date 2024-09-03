@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Leonardo Scotti
-- 👀 I’m interested in front-end React.JS
+- 👀 I’m interested in backend (Python, C#)
 - 🌱 I’m currently learning C#, Java, React Native
-- 💞️ I’m looking to collaborate on Front end
+- 💞️ I’m looking to collaborate on Back end projects
 
 <div>
   <a href="https://github.com/leocscotti">
