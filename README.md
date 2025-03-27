@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leonardo Scotti
-- 👀 I’m interested in backend (Python, C#)
-- 🌱 I’m currently learning C#, Java, React Native
+- 👀 I’m interested in backend (Python, C#, Java)
+- 🌱 I’m currently learning Python, Java
 - 💞️ I’m looking to collaborate on Back end projects
 
 <div>
